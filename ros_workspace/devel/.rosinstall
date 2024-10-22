@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ww/Point-SLAM/ros_workspace/devel/setup.sh
